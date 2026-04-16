@@ -1,3 +1,3 @@
 # Demo
 
-This is a demo document.
+This is a demo document!
